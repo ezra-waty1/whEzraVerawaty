@@ -1,4 +1,5 @@
 class DataSaya {
-   static String nama = "Kudut";
-    static String gambar = "assets/mahasiswa/kudut.png";
+  static String nama = "ezra";
+  static String gambar =
+      "assets/ezra.jpg";
 }
